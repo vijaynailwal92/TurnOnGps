@@ -1,3 +1,5 @@
-# TurnOnGps Activity like google map dialog
+# TurnOnGps Activity like google map dialog .
+
 TurnOnGpsAppCompatActivity like google map dialog .
-find distance more than two lattitude longitude 
+
+find distance more than two lattitude longitude .
